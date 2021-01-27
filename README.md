@@ -1,2 +1,2 @@
-# Chaetoceros-RS19-Zn-and-Co-metaproteomic-volcano-plot-data
-(1/8/21) This is the proteomic data (spectral counts) generated for Chaetoceros RS19 grown under double addition of Zn and Co, code (Python/Jupyter Notebook) is for plotting interactive low vs. high metal volcano plots using Python, Jupyter Notebook and Bokeh.
+# Chaetoceros-RS19-ZnCo-code
+(1/27/21) ChProteinsRedo.xlsx is the proteomic data (spectral counts) generated for Chaetoceros RS19 grown under double addition of Zn and Co. ChRS19_VolcanoPlots.ipynb is the Python/Jupyter Notebook code used for plotting interactive low vs. high metal volcano plots using Python, Jupyter Notebook and Bokeh. 2021ChRS19HeatMap.R is the R code used to generate a proteomic heatmap comparing NSAF normalized spectral counts of 50 proteins with highest variances across all 12 metal amendments. 
